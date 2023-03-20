@@ -1,22 +1,21 @@
-#include <studio.h>
+#include <stdio.h>
 /**
-*
-* main - main function
-*
-* Return: end program
-*/
+ * main - main function
+ *
+ * Return: end program
+ */
 int main(void)
 {
-char low;
-char up;
+	char low;
+	char UP;
 
-for(low=a; low <= z; ++low)
-printf("%c", low);
+	for (low = 'a'; low <= 'z'; ++low)
+		printf("%c", low);
 
-for(up = A; up <=Z; ++up)
-printf("%c", up);
+	for (UP = 'A'; UP <= 'Z'; ++UP)
+		printf("%c", UP);
 
-printf("\n");
+	printf("\n");
 
-return (0);
+	return (0);
 }
