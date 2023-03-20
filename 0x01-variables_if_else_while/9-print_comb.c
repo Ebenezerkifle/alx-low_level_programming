@@ -6,19 +6,19 @@
  */
 int main(void)
 {
-int x = 0;
+	int x = '0';
 
-while (x <= 9)
-{
-putchar(x);
-if (x != 9)
-{
-putchar(,);
-putchar( );
-}
-x++;
-}
+	while (x <= '9')
+	{
+		putchar(x);
+		if (x != '9')
+		{
+			putchar(',');
+			putchar(' ');
+		}
+		x++;
+	}
 
-putchar(10);
-return (0);
+	putchar(10);
+	return (0);
 }
