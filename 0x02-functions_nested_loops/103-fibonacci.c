@@ -1,6 +1,6 @@
 /*
  * File: 103-fibonacci.c
- * Auth: yabets
+ * Auth: Abeni
  */
 
 #include <stdio.h>
