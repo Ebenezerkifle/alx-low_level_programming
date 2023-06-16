@@ -13,6 +13,7 @@
         "cstdlib": "c",
         "new": "c",
         "cstdint": "c",
-        "typeinfo": "c"
+        "typeinfo": "c",
+        "lists.h": "c"
     }
 }
