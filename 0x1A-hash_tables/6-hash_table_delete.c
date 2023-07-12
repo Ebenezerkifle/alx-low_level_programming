@@ -1,6 +1,6 @@
 /*
  * File: 6-hash_table_delete.c
- * Auth: Yabets Kifle
+ * Auth: Abeneizer Kifle
 */
 
 #include "hash_tables.h"

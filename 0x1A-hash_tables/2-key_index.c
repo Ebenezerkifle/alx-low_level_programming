@@ -1,6 +1,6 @@
 /*
  * File: 2-key_index.c
- * Auth: Yabets kifle
+ * Auth: Abeniezer kifle
 */
 
 #include "hash_tables.h"

@@ -1,6 +1,6 @@
 /*
  * File: 4-hash_table_get.c
- * Auth: Yabets kifle
+ * Auth: Abeneizer kifle
 */
 
 #include "hash_tables.h"

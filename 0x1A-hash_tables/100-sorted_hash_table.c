@@ -1,6 +1,6 @@
 /*
  * File: 100-sorted_hash_table.c
- * Auth: Yabets kifle
+ * Auth: Abeneizer kifle
  */
 
 #include "hash_tables.h"
